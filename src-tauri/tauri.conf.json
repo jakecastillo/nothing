@@ -24,7 +24,7 @@
     }
   },
   "bundle": {
-    "active": false,
+    "active": true,
     "targets": "all",
     "shortDescription": "An application that intentionally does almost nothing.",
     "longDescription": "An application that intentionally does almost nothing."

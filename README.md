@@ -11,6 +11,11 @@ Nothing is a calm, deliberate desktop application that intentionally does almost
 - No onboarding, accounts, metrics, or analytics.
 - Press the M key to toggle the optional ambient audio.
 
+## Downloads
+
+Grab the latest installers from the GitHub Releases page:
+https://github.com/jakecastillo/nothing/releases
+
 ## Build and run
 
 Prerequisites:
