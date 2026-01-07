@@ -1,0 +1,7 @@
+{
+  "identifier": "main",
+  "description": "Default capabilities for the Nothing window.",
+  "local": true,
+  "windows": ["main"],
+  "permissions": ["core:default"]
+}

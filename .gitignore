@@ -1,0 +1,8 @@
+/target
+/src-tauri/target
+/src-tauri/tauri-dev.pid
+/node_modules
+/dist
+.DS_Store
+*.log
+*.swp
